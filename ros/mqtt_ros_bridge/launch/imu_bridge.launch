@@ -1,0 +1,9 @@
+<launch>
+  <node pkg="mqtt_ros_bridge" type="imu_bridge.py" name="imu_bridge" output="screen">
+    <remap from="/imu_data" to="/inertial"/>
+  </node>
+  <node pkg="mqtt_ros_bridge" type="vib.py" name="vib_feedback" output="screen">
+    <remap from="/vib_feedback" to="/inertial"/>
+  </node>
+</launch>
+
