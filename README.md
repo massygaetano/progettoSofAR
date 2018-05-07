@@ -1,6 +1,6 @@
 # Vibration Feedback
 
- ## Installation
+ # Installation
 
  ## mobile app
 
