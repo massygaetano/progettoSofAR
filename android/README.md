@@ -1,6 +1,6 @@
 ﻿# Progetto App Android
 
-L'applicazione android è un aggiornamento dell'app IMU Stream presente nella seguente repository https://github.com/EmaroLab/imu_stream.
+L'applicazione android è un aggiornamento dell'app IMU Stream presente nella seguente repository https://github.com/EmaroLab/imu_stream. Per permettere ad uno smartwatch di inviare feedback sullo spostamento di un robot lungo una linea retta.
 
 Rispetto alla versione precedente:
 
