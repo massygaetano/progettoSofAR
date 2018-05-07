@@ -8,7 +8,7 @@
 
 # wearable app
 
-  Follow steps at the git repository https://github.com/EmaroLab/imu_stream, the apk is the sameof mobile app
+  Follow steps at the git repository https://github.com/EmaroLab/imu_stream, the apk is the same of mobile app, downaloaded before
   
 # How to use vibration_feedback
   
