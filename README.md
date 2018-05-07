@@ -41,7 +41,8 @@
    5. In a new terminal tab 
             
              rostopic pub /vibration_vel std_msgs/String \"1\"
-             
+   if everything is correctly installed smartwatch must vibrate  
+   
    # How to use vibration_feedback
   
    Follow all steps at the git repository https://github.com/EmaroLab/imu_stream 
