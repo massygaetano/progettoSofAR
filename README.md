@@ -14,7 +14,7 @@
         
    Clone the repository in the source folder of your catkin workspace
    
-      git clone https://github.com/massygaetano/progettoSofAR/tree/master/ros/mqtt_ros_bridge
+      git clone https://github.com/massygaetano/progettoSofAR
   
    Then follow steps at the git repository https://github.com/EmaroLab/mqtt_ros_bridge
 
